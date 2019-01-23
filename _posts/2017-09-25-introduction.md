@@ -1,15 +1,14 @@
 ---
 title: Welcome to the Forestry Demo Site!
-date: 2017-09-25 09:09:13 +0000
+date: ''
 related_posts:
 - _posts/2017-02-12-modern.md
 - _posts/2017-08-01-welcome.md
 sub_heading: An introduction to Forestry
-tags:
-- Demo
-- Forestry
+tags: []
 layout: post
-banner_image: ''
+banner_image: "/uploads/2017/11/14/andrew-robles-300868.jpg"
+
 ---
 Welcome to the Belkirk College of Engineering Demo Site!
 
